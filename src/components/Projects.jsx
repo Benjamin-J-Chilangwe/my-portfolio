@@ -13,14 +13,21 @@ const projects = [
     image: "../../public/images/edu.png",
     link: "https://www.educonnecti.site/",
   },
-  // Add more projects as needed
+  {
+    title: "Portfolio-1",
+    description: "A little description and overview of myself and my skills.",
+    image: "../../public/images/Portfolio.png",
+    link: "https://willowy-bombolone-531d2e.netlify.app/",
+  },
 ];
 
 const Projects = () => {
   return (
     <section id="projects" className="px-6 py-20 text-white bg-black md:px-12">
       <div className="max-w-6xl mx-auto">
-        <h2 className="mb-10 text-4xl font-bold text-center text-green-500">Projects</h2>
+        <h2 className="mb-10 text-4xl font-bold text-center text-green-500">
+          Projects
+        </h2>
 
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3">
           {projects.map((project, idx) => (
