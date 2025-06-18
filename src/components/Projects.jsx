@@ -4,13 +4,13 @@ const projects = [
   {
     title: "Findit App",
     description: "A lost-and-found mobile app using Flutter and Firebase.",
-    image: "../../src/images/FindIt.png",
+    image: "../../public/images/FindIt.png",
     link: "https://your-app-link.com",
   },
   {
     title: "Educonnect WebApp",
     description: "An online learning smart classroom platform.",
-    image: "../../src/images/edu.png",
+    image: "../../public/images/edu.png",
     link: "https://www.educonnecti.site/",
   },
   // Add more projects as needed

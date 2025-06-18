@@ -1,6 +1,6 @@
 import React from "react";
 import { FaDownload } from "react-icons/fa";
-import MyImage from "../images/MyImage.jpg";
+import MyImage from "../../public/images/MyImage";
 
 const Home = () => {
   return (
