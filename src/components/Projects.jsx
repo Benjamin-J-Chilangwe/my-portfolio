@@ -4,19 +4,22 @@ const projects = [
   {
     title: "Findit App",
     description: "A lost-and-found mobile app using Flutter and Firebase.",
-    image: "../../public/images/FindIt.png",
+    image:
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvRmluZEl0LnBuZyIsImlhdCI6MTc1MDM0NTQ3MCwiZXhwIjoxNzgxODgxNDcwfQ.fko58DtCXA8mPzmvNgr6YIDduRTNd4s_chThOYGYloI",
     link: "https://your-app-link.com",
   },
   {
     title: "Educonnect WebApp",
     description: "An online learning smart classroom platform.",
-    image: "../../public/images/edu.png",
+    image:
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/edu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvZWR1LnBuZyIsImlhdCI6MTc1MDM0NTM5MSwiZXhwIjoxNzgxODgxMzkxfQ.VvzwRGyuqor01mQMxuhtFl2MvK4Sleab0yQKs3gxbRc",
     link: "https://www.educonnecti.site/",
   },
   {
     title: "Portfolio-1",
     description: "A little description and overview of myself and my skills.",
-    image: "../../public/images/Portfolio.png",
+    image:
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1MDM0NTQ5MywiZXhwIjoxNzgxODgxNDkzfQ.sptlSHIAEfUhsmVScNgQYzORvZcGR2OsNxNdF0kmJYA",
     link: "https://willowy-bombolone-531d2e.netlify.app/",
   },
 ];

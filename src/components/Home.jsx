@@ -9,14 +9,15 @@ const Home = () => {
         {/* Left Section */}
         <div className="space-y-5">
           <h1 className="text-5xl font-bold text-white">
-           Welcome to my portfolio!<span className="text-green-500">.</span>
+            Welcome to my portfolio<span className="text-green-500">.</span>
           </h1>
           <h2 className="text-2xl font-semibold">I’m Benjamin Chilangwe</h2>
-          <p className="text-gray-400"> A Computer Scientist by professional.
-             I’m passionate about technology and solving real-world problems through software development. Take a look at my
-              projects and experience as I continue my journey in the tech industry.</p>
+          <p className="text-gray-400">
+            A Computer Scientist by profession. I’m passionate about technology and solving real-world problems through software development. Take a look at my
+            projects and experience as I continue my journey in the tech industry.
+          </p>
           <a
-            href="/path-to-cv.pdf"
+            href="https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Ben%20Cv.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQmVuIEN2LnBkZiIsImlhdCI6MTc1MDM0NTE2MiwiZXhwIjoxNzgxODgxMTYyfQ.AK1sCBAbCBDRvgS0hnROHAqro_Q4T_ZINPscK-SoW0Y"
             className="inline-flex items-center px-6 py-3 text-white bg-green-500 rounded-lg hover:bg-green-600"
             download
           >
