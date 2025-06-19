@@ -9,6 +9,7 @@ const Navbar = () => {
     "About",
     "Services",
     "Skills",
+    "Education",
     "Projects",
     "Contact",
   ];
