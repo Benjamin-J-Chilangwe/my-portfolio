@@ -6,7 +6,7 @@ const projects = [
     description: "A lost-and-found mobile app using Flutter and Firebase.",
     image:
       "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvRmluZEl0LnBuZyIsImlhdCI6MTc1MDM0NTQ3MCwiZXhwIjoxNzgxODgxNDcwfQ.fko58DtCXA8mPzmvNgr6YIDduRTNd4s_chThOYGYloI",
-    link: "https://your-app-link.com",
+    link: "https://github.com/bsc-inf-08-20/findit.git",
   },
   {
     title: "Educonnect WebApp",
@@ -20,7 +20,7 @@ const projects = [
     description: "A little description and overview of myself and my skills.",
     image:
       "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1MDM0NTQ5MywiZXhwIjoxNzgxODgxNDkzfQ.sptlSHIAEfUhsmVScNgQYzORvZcGR2OsNxNdF0kmJYA",
-    link: "https://willowy-bombolone-531d2e.netlify.app/",
+    link: "https://magenta-haupia-42ba2c.netlify.app/",
   },
 ];
 
