@@ -13,11 +13,13 @@ const Home = () => {
           </h1>
           <h2 className="text-2xl font-semibold">I’m Benjamin Chilangwe</h2>
           <p className="text-gray-400">
-            A Computer Scientist by profession. I’m passionate about technology and solving real-world problems through software development. Take a look at my
-            projects and experience as I continue my journey in the tech industry.
+            A Computer Scientist by profession. I’m passionate about technology
+            and solving real-world problems through software development. Take a
+            look at my projects and experience as I continue my journey in the
+            tech industry.
           </p>
           <a
-            href="https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Benjamin%20Cv.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mN2FiZGE5Zi0xMzIzLTQ0OTQtOWM0Ni1kYmRhNTEwZjAzYWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQmVuamFtaW4gQ3YucGRmIiwiaWF0IjoxNzUyMzMxMDE0LCJleHAiOjE3ODM4NjcwMTR9.v2R8zZTPPPSHz3wdsHEdDmrfsTCjsyw_08XgMEij5PM"
+            href="https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Benjamin%20Chilangwe%20CV.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mN2FiZGE5Zi0xMzIzLTQ0OTQtOWM0Ni1kYmRhNTEwZjAzYWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQmVuamFtaW4gQ2hpbGFuZ3dlIENWLnBkZiIsImlhdCI6MTc1MjM2MTI2NSwiZXhwIjoxNzgzODk3MjY1fQ.O6hWVH83rVKFLPiRCmMAIY0hBQThJgPPrHbDj7pCxLw"
             className="inline-flex items-center px-6 py-3 text-white bg-green-500 rounded-lg hover:bg-green-600"
             download
           >
