@@ -5,21 +5,21 @@ const projects = [
     title: "Findit App",
     description: "A lost-and-found mobile app using Flutter and Firebase.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvRmluZEl0LnBuZyIsImlhdCI6MTc1MDM0NTQ3MCwiZXhwIjoxNzgxODgxNDcwfQ.fko58DtCXA8mPzmvNgr6YIDduRTNd4s_chThOYGYloI",
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mN2FiZGE5Zi0xMzIzLTQ0OTQtOWM0Ni1kYmRhNTEwZjAzYWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvRmluZEl0LnBuZyIsImlhdCI6MTc1MjMzMDg1NSwiZXhwIjoxNzgzODY2ODU1fQ.7VmOqqcM6Yh2jtllke-2iusiCGNM97w8I1xRzx1D0Os",
     link: "https://github.com/bsc-inf-08-20/findit.git",
   },
   {
     title: "Educonnect WebApp",
     description: "An online learning smart classroom platform.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/edu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvZWR1LnBuZyIsImlhdCI6MTc1MDM0NTM5MSwiZXhwIjoxNzgxODgxMzkxfQ.VvzwRGyuqor01mQMxuhtFl2MvK4Sleab0yQKs3gxbRc",
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/edu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mN2FiZGE5Zi0xMzIzLTQ0OTQtOWM0Ni1kYmRhNTEwZjAzYWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvZWR1LnBuZyIsImlhdCI6MTc1MjMzMDg5NiwiZXhwIjoxNzgzODY2ODk2fQ.1rO031gHja7Qlhd2z8BT_h1Xnvwir-vRN-IGNHc8uWA",
     link: "https://www.educonnecti.site/",
   },
   {
     title: "Portfolio-1",
     description: "A little description and overview of myself and my skills.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8zMGY5NzExOC04MGM0LTRkNWItOTk2Yy00MWRlYTYyZWJlNWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1MDM0NTQ5MywiZXhwIjoxNzgxODgxNDkzfQ.sptlSHIAEfUhsmVScNgQYzORvZcGR2OsNxNdF0kmJYA",
+      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mN2FiZGE5Zi0xMzIzLTQ0OTQtOWM0Ni1kYmRhNTEwZjAzYWQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1MjMzMDgwNiwiZXhwIjoxNzgzODY2ODA2fQ.DfkCj_kNCyFz38AlTVPbK83exvvT2Wz0RSKsTgvThN0",
     link: "https://magenta-haupia-42ba2c.netlify.app/",
   },
 ];
