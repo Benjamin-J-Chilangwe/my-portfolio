@@ -20,7 +20,7 @@ const projects = [
     description: "A little description and overview of myself and my skills.",
     image:
       "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yNjY0NzNmNC1iMzkwLTRmMTktODFmZi0xZDdlOTE3MWU1YjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1NTA1Mjk4NiwiZXhwIjoxNzg2NTg4OTg2fQ._bBVt8f4gKTA0fo8c8XwMajL-keQiTFj9Au_iGeR_SI",
-    link: "https://magenta-haupia-42ba2c.netlify.app/",
+    link: "https://benjamin-chilangwe-portfolio-1.netlify.app/",
   },
 ];
 
