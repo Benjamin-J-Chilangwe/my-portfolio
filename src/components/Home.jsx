@@ -19,7 +19,7 @@ const Home = () => {
             tech industry.
           </p>
           <a
-            href="https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Benjamin%20Chilangwe%20CV2.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xOTFmY2YyNS0yMmY5LTQ4YWItOTczZS0zYzEwMGZlZWMwMjkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQmVuamFtaW4gQ2hpbGFuZ3dlIENWMi5wZGYiLCJpYXQiOjE3NTM1ODk5NjIsImV4cCI6MTc4NTEyNTk2Mn0.QBGNFKoXHv5lF8zBxQj2T0U9XTurAQBPKeXIhtR1OJ4"
+            href="https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Benjamin%20Chilangwe%20CV2.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yNjY0NzNmNC1iMzkwLTRmMTktODFmZi0xZDdlOTE3MWU1YjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQmVuamFtaW4gQ2hpbGFuZ3dlIENWMi5wZGYiLCJpYXQiOjE3NTUwNTI3MDQsImV4cCI6MTc4NjU4ODcwNH0.XyY3z0QUTykR61NA6mO9gGRuTBz2qbappbl9Jy-cSWA"
             className="inline-flex items-center px-6 py-3 text-white bg-green-500 rounded-lg hover:bg-green-600"
             download
           >
