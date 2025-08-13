@@ -48,7 +48,7 @@ const Navbar = () => {
           {navItems.map((item) => (
             <li key={item}>
               <Link
-                to="about" smooth={true} duration={500}
+                to={item.toLowerCase()} smooth={true} duration={500}
                 onClick={() => setMenuOpen(false)}
                 className="block text-white transition hover:text-green-400"
               >
