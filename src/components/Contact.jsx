@@ -65,7 +65,7 @@ const Contact = () => {
         >
           <input
             type="text"
-            name="name"
+            name="from_name"
             placeholder="Your Name"
             required
             className="w-full px-4 py-3 text-white bg-gray-900 border border-gray-700 rounded focus:outline-none focus:border-green-500"
@@ -74,7 +74,7 @@ const Contact = () => {
           />
           <input
             type="email"
-            name="email"
+            name="from_email"
             placeholder="Your Email"
             required
             className="w-full px-4 py-3 text-white bg-gray-900 border border-gray-700 rounded focus:outline-none focus:border-green-500"
