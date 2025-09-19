@@ -26,7 +26,6 @@ const Contact = () => {
     setIsSending(true);
     setSuccess("");
 
-
     emailjs
       .sendForm("service_2r0grzi", "template_w6dfc0l", form.current, {
         publicKey: "m3sz4neaiuPw4bf92",
@@ -42,7 +41,7 @@ const Contact = () => {
         (error) => {
           console.log("FAILED...", error.text);
           setSuccess("Failed to send. Please try again.");
-          setIsSending(false)
+          setIsSending(false);
         }
       );
   };
@@ -95,7 +94,9 @@ const Contact = () => {
             type="submit"
             disabled={isSending}
             className={`px-6 py-3 font-semibold text-white rounded-lg transition ${
-              isSending ? "bg-green-300 cursor-not-allowed" : "bg-green-500 hover:bg-green-600"
+              isSending
+                ? "bg-green-300 cursor-not-allowed"
+                : "bg-green-500 hover:bg-green-600"
             }`}
           >
             {isSending ? "Sending..." : "Send Message"}
