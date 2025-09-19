@@ -64,8 +64,8 @@ const Contact = () => {
           onSubmit={sendEmail}
         >
           <input
-            type="text"
             name="from_name"
+            type="text"
             placeholder="Your Name"
             required
             className="w-full px-4 py-3 text-white bg-gray-900 border border-gray-700 rounded focus:outline-none focus:border-green-500"
@@ -73,8 +73,8 @@ const Contact = () => {
             onChange={handleName}
           />
           <input
-            type="email"
             name="from_email"
+            type="email"
             placeholder="Your Email"
             required
             className="w-full px-4 py-3 text-white bg-gray-900 border border-gray-700 rounded focus:outline-none focus:border-green-500"
