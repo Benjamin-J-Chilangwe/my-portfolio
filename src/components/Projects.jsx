@@ -5,21 +5,21 @@ const projects = [
     title: "Findit App",
     description: "A lost-and-found mobile app using Flutter and Firebase.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yNjY0NzNmNC1iMzkwLTRmMTktODFmZi0xZDdlOTE3MWU1YjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvRmluZEl0LnBuZyIsImlhdCI6MTc1NTA1Mjg0MywiZXhwIjoxNzg2NTg4ODQzfQ.x0khC5xndD9Ig16_zbLgSPcx_QWZsKeS6VCXcVT9e4o",
+      "https://abgafrrufzrvvwxrcbsl.supabase.co/storage/v1/object/sign/portfolio-files/FindIt.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xMDJhNjI5OS1kMzk4LTQzODctYmVjZi1lMTZlYTY2YTk2OGYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8tZmlsZXMvRmluZEl0LnBuZyIsImlhdCI6MTc2OTMzMjkzNywiZXhwIjoxODAwODY4OTM3fQ.Gjh_JhJuN04EfcYMdhHs9jUdPKSQc-J92iNh7g8NyD0",
     link: "https://github.com/bsc-inf-08-20/findit.git",
   },
   {
     title: "Educonnect WebApp",
     description: "An online learning smart classroom platform.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/edu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yNjY0NzNmNC1iMzkwLTRmMTktODFmZi0xZDdlOTE3MWU1YjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvZWR1LnBuZyIsImlhdCI6MTc1NTA1MjkwOCwiZXhwIjoxNzg2NTg4OTA4fQ.uieQEYniGXbGxlBJZ3UzLTW46iXtzpX17yvrJ4qZwYE",
+      "https://abgafrrufzrvvwxrcbsl.supabase.co/storage/v1/object/sign/portfolio-files/edu.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xMDJhNjI5OS1kMzk4LTQzODctYmVjZi1lMTZlYTY2YTk2OGYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8tZmlsZXMvZWR1LnBuZyIsImlhdCI6MTc2OTMzMjg1NCwiZXhwIjoxODAwODY4ODU0fQ.HxvSwzsi1bBNjLe-nAuTqZfd5zdA3rWmWEloB1eemVE",
     link: "https://www.educonnecti.site/",
   },
   {
     title: "Portfolio-1",
     description: "A little description and overview of myself and my skills.",
     image:
-      "https://ypvhmhcgrbyqzlpftlzt.supabase.co/storage/v1/object/sign/assets/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yNjY0NzNmNC1iMzkwLTRmMTktODFmZi0xZDdlOTE3MWU1YjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc1NTA1Mjk4NiwiZXhwIjoxNzg2NTg4OTg2fQ._bBVt8f4gKTA0fo8c8XwMajL-keQiTFj9Au_iGeR_SI",
+      "https://abgafrrufzrvvwxrcbsl.supabase.co/storage/v1/object/sign/portfolio-files/Portfolio.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xMDJhNjI5OS1kMzk4LTQzODctYmVjZi1lMTZlYTY2YTk2OGYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwb3J0Zm9saW8tZmlsZXMvUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc2OTMzMjkxMCwiZXhwIjoxODAwODY4OTEwfQ.ZOI713gD6dENF2ZD_heyGXUxJm73wyZ2Dgn9ZMSsr_Y",
     link: "https://benjamin-chilangwe-portfolio-1.netlify.app/",
   },
 ];
