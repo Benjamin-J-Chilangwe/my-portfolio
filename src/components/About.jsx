@@ -1,5 +1,5 @@
 import React from "react";
-import MyImage from "../../public/images/MyImage.jpg";
+import ImageP from "../../public/images/ImageP.png";
 
 const About = () => {
   return (
@@ -13,7 +13,7 @@ const About = () => {
           {/* Left Image */}
           <div className="flex justify-center">
             <img
-              src={MyImage}
+              src={ImageP}
               alt="Ben's image"
               className="object-cover border-4 border-green-500 rounded-lg shadow-lg w-85 h-85"
             />
