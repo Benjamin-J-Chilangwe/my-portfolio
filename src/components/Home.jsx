@@ -1,6 +1,6 @@
 import React from "react";
 import { FaDownload } from "react-icons/fa";
-import ImageP from "../../public/images/ImageP.png";
+import ImageP1 from "../../public/images/ImageP1.png";
 
 const Home = () => {
   return (
@@ -31,7 +31,7 @@ const Home = () => {
         {/* Right Section - Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src={ImageP}
+            src={ImageP1}
             alt="Image of Ben"
             className="object-cover border-4 border-green-500 rounded-full shadow-lg w-72 h-72"
           />
